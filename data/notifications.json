@@ -1,0 +1,19 @@
+[
+  {
+    "id": "notif_jfxamlt84_1789311297255",
+    "coupleId": "5748e73f-af36-4520-bcdf-e2c617f4145a",
+    "senderUserId": "3177bfc1-1efe-4d18-b714-726cdfb8f8e4",
+    "senderName": "Vianney",
+    "type": "love_note",
+    "title": "Vianney vous a envoyé une note d'amour ❤️",
+    "body": "Plein de doux bisous volants ! 😘",
+    "icon": "/pwa-192x192.png",
+    "url": "/?tab=notes",
+    "metadata": {
+      "noteId": "05685089-a159-4f47-ac48-189cdb6b2499",
+      "mood": "😘"
+    },
+    "isRead": false,
+    "createdAt": "2026-09-13T14:54:57.255Z"
+  }
+]

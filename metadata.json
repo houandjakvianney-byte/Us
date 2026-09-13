@@ -1,0 +1,6 @@
+{
+  "name": "Deux - Espace Couple PWA",
+  "description": "Application PWA mobile-first pour couple : journal de souvenirs, compteur de relation, notes d'amour avec notifications push et projets partagés.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

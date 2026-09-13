@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb7185" />
+      <stop offset="50%" stop-color="#e11d48" />
+      <stop offset="100%" stop-color="#9f1239" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#4c0519" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)" />
+  <g filter="url(#shadow)">
+    <!-- Entwined Hearts Icon -->
+    <path d="M220 330 C220 330 140 260 140 195 C140 155 170 125 210 125 C235 125 255 140 265 160 C275 140 295 125 320 125 C360 125 390 155 390 195 C390 260 310 330 310 330 L265 375 Z" fill="#ffffff" opacity="0.95"/>
+    <path d="M265 240 C280 215 315 215 330 235 C345 255 340 285 320 305 L265 355 L210 305 C190 285 185 255 200 235 C215 215 250 215 265 240 Z" fill="#ffe4e6"/>
+    <!-- Ring / Infinity connection loop -->
+    <circle cx="265" cy="275" r="18" fill="#fda4af" />
+  </g>
+</svg>
